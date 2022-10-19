@@ -1,6 +1,6 @@
 <?php
 
-use App\Models\Post;
+use App\Http\Controllers\PostController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -18,14 +18,6 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/posts', function () {
-    return view('posts', [
-        'posts' => Post::list()
-    ]);
-});
+Route::get('/posts', [PostController::class, 'list']);
 
-Route::get('/posts/{post_name}', function ($post_name) {
-    return view('post', [
-        'post_content' => Post::find($post_name)
-    ]);
-});
+Route::get('/posts/{post_name}', [PostController::class, 'show']);
