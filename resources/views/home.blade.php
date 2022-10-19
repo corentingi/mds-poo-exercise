@@ -4,9 +4,17 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Corentin's Blog</title>
+
+        <link rel="stylesheet" href="/app.css">
     </head>
     <body>
-        <h1>Hello world</h1>
+        <h1>Corentin's Blog</h1>
+
+        <p>
+            <ul>
+                <li><a href="/posts">My blog posts</a></li>
+            </ul>
+        </p>
     </body>
 </html>
