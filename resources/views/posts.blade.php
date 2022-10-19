@@ -8,7 +8,7 @@
     </head>
     <body>
         <div>
-            <h1>My first blog post</h1>
+            <h1><a href="/posts/my-first-post">My first blog post</a></h1>
 
             <p>
                 Pariatur deserunt eu amet est consectetur reprehenderit ea ipsum ea aliquip duis exercitation consectetur sint. Dolore mollit nostrud adipisicing ad exercitation laboris. Exercitation esse ipsum tempor dolore nulla quis laboris id nisi sunt enim sit deserunt. Enim quis minim incididunt veniam minim mollit ipsum sunt commodo duis fugiat elit. Laboris laborum proident cupidatat ullamco. Deserunt sint do pariatur est ipsum. Adipisicing exercitation tempor sint cupidatat enim consequat nulla pariatur.
@@ -22,7 +22,7 @@
         </div>
 
         <div>
-            <h1>My second blog post</h1>
+            <h1><a href="/posts/my-second-post">My second blog post</a></h1>
 
             <p>
                 Pariatur deserunt eu amet est consectetur reprehenderit ea ipsum ea aliquip duis exercitation consectetur sint. Dolore mollit nostrud adipisicing ad exercitation laboris. Exercitation esse ipsum tempor dolore nulla quis laboris id nisi sunt enim sit deserunt. Enim quis minim incididunt veniam minim mollit ipsum sunt commodo duis fugiat elit. Laboris laborum proident cupidatat ullamco. Deserunt sint do pariatur est ipsum. Adipisicing exercitation tempor sint cupidatat enim consequat nulla pariatur.
@@ -36,7 +36,7 @@
         </div>
 
         <div>
-            <h1>My third blog post</h1>
+            <h1><a href="/posts/my-third-post">My third blog post</a></h1>
 
             <p>
                 Pariatur deserunt eu amet est consectetur reprehenderit ea ipsum ea aliquip duis exercitation consectetur sint. Dolore mollit nostrud adipisicing ad exercitation laboris. Exercitation esse ipsum tempor dolore nulla quis laboris id nisi sunt enim sit deserunt. Enim quis minim incididunt veniam minim mollit ipsum sunt commodo duis fugiat elit. Laboris laborum proident cupidatat ullamco. Deserunt sint do pariatur est ipsum. Adipisicing exercitation tempor sint cupidatat enim consequat nulla pariatur.
